@@ -1,0 +1,181 @@
+add_mix,add_mix_percent,curing_days,strength_increase_prec
+Crushed sea shell (FA),80.0,28,12.13
+Crushed sea shell (FA),80.0,56,12.28
+Crushed sea shell (FA),80.0,90,12.65
+Crushed sea shell (FA),80.0,180,13.06
+Metakaolin,15.0,28,15.19
+Metakaolin,15.0,56,15.59
+Metakaolin,15.0,90,15.62
+Metakaolin,15.0,180,15.86
+Quartz powder (FA),40.0,28,10.69
+Quartz powder (FA),40.0,56,10.94
+Quartz powder (FA),40.0,90,11.12
+Quartz powder (FA),40.0,180,11.85
+Steel slag,40.0,28,17.38
+Steel slag,40.0,56,17.75
+Steel slag,40.0,90,17.87
+Steel slag,40.0,180,18.22
+Alccofine,7.5,28,15.35
+Alccofine,7.5,56,15.67
+Alccofine,7.5,90,16.03
+Alccofine,7.5,180,16.45
+Polypropylene fibres,1.5,28,19.85
+Polypropylene fibres,1.5,56,20.12
+Polypropylene fibres,1.5,90,20.25
+Polypropylene fibres,1.5,180,20.96
+Silica fume,7.5,28,16.25
+Silica fume,7.5,56,16.78
+Silica fume,7.5,90,17.01
+Silica fume,7.5,180,17.84
+Marble powder (FA),15.0,28,13.96
+Marble powder (FA),15.0,56,14.16
+Marble powder (FA),15.0,90,14.51
+Marble powder (FA),15.0,180,14.65
+Recron 3s fibres,1.0,28,7.85
+Recron 3s fibres,1.0,56,8.2
+Recron 3s fibres,1.0,90,8.47
+Recron 3s fibres,1.0,180,8.79
+Titanium dioxide,1.0,28,18.23
+Titanium dioxide,1.0,56,18.8
+Titanium dioxide,1.0,90,18.97
+Titanium dioxide,1.0,180,19.27
+GGBS,40.0,28,8.25
+GGBS,40.0,56,8.35
+GGBS,40.0,90,8.73
+GGBS,40.0,180,9.24
+Graphene oxide,0.12,28,49.52
+Graphene oxide,0.12,56,49.58
+Graphene oxide,0.12,90,50.29
+Graphene oxide,0.12,180,50.53
+Zeolite powder (FA),10.0,28,11.82
+Zeolite powder (FA),10.0,56,12.21
+Zeolite powder (FA),10.0,90,12.72
+Zeolite powder (FA),10.0,180,12.86
+Bamboo fibres,1.0,28,24.81
+Bamboo fibres,1.0,56,25.41
+Bamboo fibres,1.0,90,25.86
+Bamboo fibres,1.0,180,25.93
+Hyposludge,10.0,28,31.05
+Hyposludge,10.0,56,31.25
+Hyposludge,10.0,90,31.53
+Hyposludge,10.0,180,32.36
+Zeolite powder,15.0,28,26.5
+Zeolite powder,15.0,56,27.13
+Zeolite powder,15.0,90,27.59
+Zeolite powder,15.0,180,28.06
+Hooked steel fibres,1.0,28,4.91
+Hooked steel fibres,1.0,56,5.86
+Hooked steel fibres,1.0,90,6.02
+Hooked steel fibres,1.0,180,6.56
+Dunite powder,40.0,28,7.63
+Dunite powder,40.0,56,8.33
+Dunite powder,40.0,90,8.47
+Dunite powder,40.0,180,8.61
+AR Glass fibres,0.03,28,18.12
+AR Glass fibres,0.03,56,18.68
+AR Glass fibres,0.03,90,18.99
+AR Glass fibres,0.03,180,19.25
+Chebula powder,0.75,28,30.79
+Chebula powder,0.75,56,31.23
+Chebula powder,0.75,90,31.76
+Chebula powder,0.75,180,32.04
+Crumb rubber (CA),6.0,28,6.53
+Crumb rubber (CA),6.0,56,7.34
+Crumb rubber (CA),6.0,90,7.98
+Crumb rubber (CA),6.0,180,8.09
+HDPE,15.0,28,32.86
+HDPE,15.0,56,33.05
+HDPE,15.0,90,33.69
+HDPE,15.0,180,34.15
+Robo sand (FA),50.0,28,14.57
+Robo sand (FA),50.0,56,14.87
+Robo sand (FA),50.0,90,15.09
+Robo sand (FA),50.0,180,15.43
+Copper slag (FA),40.0,28,15.9
+Copper slag (FA),40.0,56,16.37
+Copper slag (FA),40.0,90,16.79
+Copper slag (FA),40.0,180,17.01
+Waste foundry sand (FA),15.0,28,16.49
+Waste foundry sand (FA),15.0,56,16.6
+Waste foundry sand (FA),15.0,90,16.72
+Waste foundry sand (FA),15.0,180,17.11
+Microsilica,10.0,28,23.76
+Microsilica,10.0,56,23.99
+Microsilica,10.0,90,24.37
+Microsilica,10.0,180,24.98
+POFA,20.0,28,7.11
+POFA,20.0,56,7.52
+POFA,20.0,90,7.92
+POFA,20.0,180,8.09
+Bamboo chips (CA),12.5,28,6.45
+Bamboo chips (CA),12.5,56,7.75
+Bamboo chips (CA),12.5,90,8.12
+Bamboo chips (CA),12.5,180,8.61
+Bacteria subtilis,10.0,28,17.05
+Bacteria subtilis,10.0,56,18.43
+Bacteria subtilis,10.0,90,18.59
+Bacteria subtilis,10.0,180,18.88
+M-sand (FA),30.0,28,21.25
+M-sand (FA),30.0,56,21.81
+M-sand (FA),30.0,90,21.9
+M-sand (FA),30.0,180,18.88
+Gold mine tailings (FA),30.0,28,15.14
+Gold mine tailings (FA),30.0,56,15.73
+Gold mine tailings (FA),30.0,90,16.32
+Gold mine tailings (FA),30.0,180,16.77
+Sulphur powder,30.0,28,28.08
+Sulphur powder,30.0,56,28.68
+Sulphur powder,30.0,90,28.94
+Sulphur powder,30.0,180,29.24
+Baggase Ash (FA),15.0,28,7.49
+Baggase Ash (FA),15.0,56,7.57
+Baggase Ash (FA),15.0,90,7.64
+Baggase Ash (FA),15.0,180,7.82
+Abca fibres ,0.5,28,18.12
+Abca fibres ,0.5,56,18.78
+Abca fibres ,0.5,90,19.34
+Abca fibres ,0.5,180,19.72
+Kenaf fibres,1.0,28,6.23
+Kenaf fibres,1.0,56,6.39
+Kenaf fibres,1.0,90,6.46
+Kenaf fibres,1.0,180,6.98
+Crimped steel fibres,3.0,28,4.85
+Crimped steel fibres,3.0,56,6.67
+Crimped steel fibres,3.0,90,6.85
+Crimped steel fibres,3.0,180,7.55
+Dolomite,15.0,28,14.53
+Dolomite,15.0,56,14.97
+Dolomite,15.0,90,15.38
+Dolomite,15.0,180,15.78
+Groundnut shell ash (FA),10.0,28,5.45
+Groundnut shell ash (FA),10.0,56,5.71
+Groundnut shell ash (FA),10.0,90,6.13
+Groundnut shell ash (FA),10.0,180,6.45
+Hemp fibres,0.75,28,40.29
+Hemp fibres,0.75,56,40.42
+Hemp fibres,0.75,90,40.63
+Hemp fibres,0.75,180,40.85
+Glass powder (FA),15.0,28,36.99
+Glass powder (FA),15.0,56,37.13
+Glass powder (FA),15.0,90,37.44
+Glass powder (FA),15.0,180,37.76
+Biocement,1.0,28,15.34
+Biocement,1.0,56,15.47
+Biocement,1.0,90,15.62
+Biocement,1.0,180,15.75
+Pine Apple leaf fibres,0.3,28,13.84
+Pine Apple leaf fibres,0.3,56,14.05
+Pine Apple leaf fibres,0.3,90,14.49
+Pine Apple leaf fibres,0.3,180,14.76
+Jute fibres,0.6,28,20.12
+Jute fibres,0.6,56,20.84
+Jute fibres,0.6,90,20.67
+Jute fibres,0.6,180,20.82
+Calcium chloride,2.5,28,9.39
+Calcium chloride,2.5,56,10.02
+Calcium chloride,2.5,90,11.26
+Calcium chloride,2.5,180,12.56
+Coir fibres,3.0,28,8.01
+Coir fibres,3.0,56,8.16
+Coir fibres,3.0,90,8.29
+Coir fibres,3.0,180,8.62
